@@ -9,3 +9,4 @@ opencv-python-headless
 pytesseract
 reportlab
 streamlit-lottie
+pdfplumber
