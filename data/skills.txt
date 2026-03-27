@@ -1,0 +1,124 @@
+python
+java
+c++
+kotlin
+swift
+
+machine learning
+deep learning
+natural language processing
+nlp
+transformers
+large language models
+llm
+statistics
+mathematics
+data structures
+algorithms
+object oriented programming
+oop
+
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+
+data visualization
+feature engineering
+model deployment
+model tuning
+
+sql
+mysql
+postgresql
+oracle
+mongodb
+
+excel
+power bi
+tableau
+business intelligence
+dashboarding
+reporting
+data cleaning
+data analysis
+
+html
+css
+javascript
+react
+react.js
+tailwind css
+bootstrap
+responsive design
+web performance
+ui/ux design
+
+node.js
+express.js
+spring boot
+rest api
+api development
+api design
+microservices
+authentication
+
+git
+
+docker
+kubernetes
+ci/cd
+jenkins
+linux
+shell scripting
+monitoring
+
+aws
+azure
+gcp
+cloud architecture
+infrastructure as code
+virtualization
+networking
+
+cyber security
+network security
+ethical hacking
+penetration testing
+firewalls
+ids
+ips
+cryptography
+risk analysis
+wireshark
+metasploit
+
+database design
+backup and recovery
+performance tuning
+data security
+
+flutter
+react native
+android development
+ios development
+mobile testing
+api integration
+
+requirement gathering
+stakeholder communication
+documentation
+process modeling
+
+research papers
+experimentation
+
+langchain
+hugging face
+vector databases
+faiss
+pinecone
+openai api
+prompt engineering
+llmops
