@@ -11,4 +11,4 @@ reportlab
 streamlit-lottie
 pdfplumber
 spacy
-
+easyocr
