@@ -14,6 +14,9 @@ def get_gemini_suggestions(resume_text, job_desc):
         if not resume_text.strip():
             return "⚠️ Resume text is empty. Cannot generate suggestions."
 
+        resume_text = resume_text[:3000]   # limit length
+        job_desc = job_desc[:1500]
+        
         model = genai.GenerativeModel("gemini-2.5-flash")
 
         prompt = f"""
