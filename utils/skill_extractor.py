@@ -1,6 +1,15 @@
 import spacy
 
-nlp = spacy.load("en_core_web_sm")
+def load_spacy_model():
+    try:
+        return spacy.load("en_core_web_sm")
+    except:
+        from spacy.cli import download
+        download("en_core_web_sm")
+        return spacy.load("en_core_web_sm")
+
+nlp = load_spacy_model()
+#nlp = spacy.load("en_core_web_sm")
 
 # Load predefined skills
 def load_skills():
