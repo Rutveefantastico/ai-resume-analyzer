@@ -35,6 +35,7 @@ An AI-powered web application that analyzes resumes, calculates ATS score, and p
 git clone https://github.com/your-username/ai-resume-analyzer.git
 cd ai-resume-analyzer
 pip install -r requirements.txt
+```
 
 ---
 
@@ -50,7 +51,7 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-link:
+link: (click here)[https://ai-resume-analyzer-bjm6j6lappvjdzcyur3tiri.streamlit.app/]
 
 ---
 
